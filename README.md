@@ -34,7 +34,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/zhuzhishefu.git
+git clone https://github.com/maochunying/zhuzhishefu.git
 
 # 进入项目目录
 cd zhuzhishefu
