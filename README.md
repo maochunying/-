@@ -63,4 +63,3 @@ MIT License
 
 ---
 
-**注意**：请将上述链接中的 `your-username` 替换为您的GitHub用户名。
